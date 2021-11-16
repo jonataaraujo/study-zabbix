@@ -3,4 +3,5 @@ LogFile=/var/log/zabbix-agent/zabbix_agentd.log
 LogFileSize=0
 Server=192.168.3.150
 ServerActive=192.168.3.150
+Hostname=ubuntu.senai.local
 Include=/etc/zabbix/zabbix_agentd.conf.d/*.conf
